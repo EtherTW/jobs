@@ -2,9 +2,13 @@
 
 Welcome to our jobs board.
 
-Please create new issue in issues tab.
+## I'm looking for a position
 
-A valid post should include following information:
+Checkout new opening positions in [issues tab](https://github.com/EtherTW/jobs/issues).
+
+## I'm looking for talents
+
+Post your opening positions by creating an new issue in [issues tab](https://github.com/EtherTW/jobs/issues). A valid post should include following information:
 
 - job description
 - salary range
